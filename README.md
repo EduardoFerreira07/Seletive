@@ -1,7 +1,9 @@
 # Seletive
 Um projeto desenvolvido com python e django o Seletive é um sistema desenvolvido para empresas cadastrarem suas vagas e ofertas para o público.
 
-![preview](./.github\seletive.jpeg)
+<p align="center">
+  <img alt="Agenda Covid" src=".github\seletive.jpeg" width="100%">
+</p>
 
 ## Tecnologias
 
